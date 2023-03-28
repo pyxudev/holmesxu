@@ -13,13 +13,20 @@ import random
 a = 1
 b = 2
 c = random.randrange(1, 4, 1)
-print(aorb(a, b, c, a, b))```
+print(aorb(a, b, c, a, b))
+```
 
 c = 1
-``` > 1```
+```Shell
+> 1
+```
 
 c = 2
-``` > 2 ```
+```Shell
+> 2 
+```
 
 c = 3
-``` > Exception: Error! ```
+```Shell
+> Exception: Error!
+```
